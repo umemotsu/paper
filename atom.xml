@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Paper</title>
+  
+  <link href="/paper/atom.xml" rel="self"/>
+  
+  <link href="https://umemotsu.github.io/"/>
+  <updated>2016-11-14T13:36:17.000Z</updated>
+  <id>https://umemotsu.github.io/</id>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>10</title>
+    <link href="https://umemotsu.github.io/2016/11/14/10/"/>
+    <id>https://umemotsu.github.io/2016/11/14/10/</id>
+    <published>2016-11-14T13:36:17.000Z</published>
+    <updated>2016-11-14T13:36:17.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>9</title>
+    <link href="https://umemotsu.github.io/2016/11/14/9/"/>
+    <id>https://umemotsu.github.io/2016/11/14/9/</id>
+    <published>2016-11-14T13:36:15.000Z</published>
+    <updated>2016-11-14T13:36:15.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>8</title>
+    <link href="https://umemotsu.github.io/2016/11/14/8/"/>
+    <id>https://umemotsu.github.io/2016/11/14/8/</id>
+    <published>2016-11-14T13:36:14.000Z</published>
+    <updated>2016-11-14T13:36:14.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>7</title>
+    <link href="https://umemotsu.github.io/2016/11/14/7/"/>
+    <id>https://umemotsu.github.io/2016/11/14/7/</id>
+    <published>2016-11-14T13:36:12.000Z</published>
+    <updated>2016-11-14T13:36:12.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>6</title>
+    <link href="https://umemotsu.github.io/2016/11/14/6/"/>
+    <id>https://umemotsu.github.io/2016/11/14/6/</id>
+    <published>2016-11-14T13:36:11.000Z</published>
+    <updated>2016-11-14T13:36:11.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>5</title>
+    <link href="https://umemotsu.github.io/2016/11/14/5/"/>
+    <id>https://umemotsu.github.io/2016/11/14/5/</id>
+    <published>2016-11-14T13:36:09.000Z</published>
+    <updated>2016-11-14T13:36:09.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>4</title>
+    <link href="https://umemotsu.github.io/2016/11/14/4/"/>
+    <id>https://umemotsu.github.io/2016/11/14/4/</id>
+    <published>2016-11-14T13:36:07.000Z</published>
+    <updated>2016-11-14T13:36:07.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>3</title>
+    <link href="https://umemotsu.github.io/2016/11/14/3/"/>
+    <id>https://umemotsu.github.io/2016/11/14/3/</id>
+    <published>2016-11-14T13:36:06.000Z</published>
+    <updated>2016-11-14T13:36:06.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2</title>
+    <link href="https://umemotsu.github.io/2016/11/14/2/"/>
+    <id>https://umemotsu.github.io/2016/11/14/2/</id>
+    <published>2016-11-14T13:36:04.000Z</published>
+    <updated>2016-11-14T13:36:04.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>1</title>
+    <link href="https://umemotsu.github.io/2016/11/14/1/"/>
+    <id>https://umemotsu.github.io/2016/11/14/1/</id>
+    <published>2016-11-14T13:36:03.000Z</published>
+    <updated>2016-11-14T13:36:03.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://umemotsu.github.io/2016/11/14/test/"/>
+    <id>https://umemotsu.github.io/2016/11/14/test/</id>
+    <published>2016-11-14T11:32:14.000Z</published>
+    <updated>2016-11-14T15:47:28.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Heading-1"><a href="#Heading-1" class="headerlink" title="Heading 1"></a>Heading 1</h1><p><code>code</code></p>
+<h2 id="Heading-2"><a href="#Heading-2" class="headerlink" title="Heading 2"></a>Heading 2</h2><p>ジップの法則（ジップのほうそく、Zipf’s law）あるいはジフの法則とは、出現頻度がk 番目に大きい要素が全体に占める割合が1/k に比例するという経験則である。Zipfは「ジフ」と読まれることもある。また、この法則が機能する世界を「ジフ構造」と記する論者もいる。</p>
+<a id="more"></a>
+<p>包括的な理論的説明はまだ成功していないものの、様々な現象に適用できることが知られている。この法則に従う確率分布（離散分布）をジップ分布という。ジップ分布はゼータ分布（英語版）の特殊な形である。</p>
+<p>ジップの法則（ジップのほうそく、Zipf’s law）あるいはジフの法則とは、出現頻度がk 番目に大きい要素が全体に占める割合が1/k に比例するという経験則である。Zipfは「ジフ」と読まれることもある。また、この法則が機能する世界を「ジフ構造」と記する論者もいる。</p>
+<p>包括的な理論的説明はまだ成功していないものの、様々な現象に適用できることが知られている。この法則に従う確率分布（離散分布）をジップ分布という。ジップ分布はゼータ分布（英語版）の特殊な形である。</p>
+<p>ジップの法則（ジップのほうそく、Zipf’s law）あるいはジフの法則とは、出現頻度がk 番目に大きい要素が全体に占める割合が1/k に比例するという経験則である。Zipfは「ジフ」と読まれることもある。また、この法則が機能する世界を「ジフ構造」と記する論者もいる。</p>
+<p>包括的な理論的説明はまだ成功していないものの、様々な現象に適用できることが知られている。この法則に従う確率分布（離散分布）をジップ分布という。ジップ分布はゼータ分布（英語版）の特殊な形である。</p>
+<p>ジップの法則（ジップのほうそく、Zipf’s law）あるいはジフの法則とは、出現頻度がk 番目に大きい要素が全体に占める割合が1/k に比例するという経験則である。Zipfは「ジフ」と読まれることもある。また、この法則が機能する世界を「ジフ構造」と記する論者もいる。</p>
+<p>包括的な理論的説明はまだ成功していないものの、様々な現象に適用できることが知られている。この法則に従う確率分布（離散分布）をジップ分布という。ジップ分布はゼータ分布（英語版）の特殊な形である。</p>
+<p>ジップの法則（ジップのほうそく、Zipf’s law）あるいはジフの法則とは、出現頻度がk 番目に大きい要素が全体に占める割合が1/k に比例するという経験則である。Zipfは「ジフ」と読まれることもある。また、この法則が機能する世界を「ジフ構造」と記する論者もいる。</p>
+<p>包括的な理論的説明はまだ成功していないものの、様々な現象に適用できることが知られている。この法則に従う確率分布（離散分布）をジップ分布という。ジップ分布はゼータ分布（英語版）の特殊な形である。</p>
+<p>ジップの法則（ジップのほうそく、Zipf’s law）あるいはジフの法則とは、出現頻度がk 番目に大きい要素が全体に占める割合が1/k に比例するという経験則である。Zipfは「ジフ」と読まれることもある。また、この法則が機能する世界を「ジフ構造」と記する論者もいる。</p>
+<p>包括的な理論的説明はまだ成功していないものの、様々な現象に適用できることが知られている。この法則に従う確率分布（離散分布）をジップ分布という。ジップ分布はゼータ分布（英語版）の特殊な形である。</p>
+<p>ジップの法則（ジップのほうそく、Zipf’s law）あるいはジフの法則とは、出現頻度がk 番目に大きい要素が全体に占める割合が1/k に比例するという経験則である。Zipfは「ジフ」と読まれることもある。また、この法則が機能する世界を「ジフ構造」と記する論者もいる。</p>
+<p>包括的な理論的説明はまだ成功していないものの、様々な現象に適用できることが知られている。この法則に従う確率分布（離散分布）をジップ分布という。ジップ分布はゼータ分布（英語版）の特殊な形である。</p>
+<h3 id="Heading-3"><a href="#Heading-3" class="headerlink" title="Heading 3"></a>Heading 3</h3><h4 id="Code"><a href="#Code" class="headerlink" title="Code"></a>Code</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">from __future__ import print_function</div><div class="line"></div><div class="line"></div><div class="line">print(&apos;Hello, world.&apos;)</div></pre></td></tr></table></figure>
+<h4 id="Math"><a href="#Math" class="headerlink" title="Math"></a>Math</h4><p>Let $i$ be a non-negative integer. Fibonacchi sequence $F<em>{i}$ has the following property:<br>\begin{eqnarray*}<br>F</em>{0} &amp;=&amp; 0, \<br>F<em>{1} &amp;=&amp; 1, \<br>F</em>{i+2} &amp;=&amp; F<em>{i} + F</em>{i+1}<br>\end{eqnarray*}</p>
+<h4 id="YouTube"><a href="#YouTube" class="headerlink" title="YouTube"></a>YouTube</h4><div class="video-container"><iframe src="//www.youtube.com/embed/vz9xxe7RmNQ" frameborder="0" allowfullscreen></iframe></div>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Heading-1&quot;&gt;&lt;a href=&quot;#Heading-1&quot; class=&quot;headerlink&quot; title=&quot;Heading 1&quot;&gt;&lt;/a&gt;Heading 1&lt;/h1&gt;&lt;p&gt;&lt;code&gt;code&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&quot;Heading-2&quot;&gt;&lt;a href=&quot;#Heading-2&quot; class=&quot;headerlink&quot; title=&quot;Heading 2&quot;&gt;&lt;/a&gt;Heading 2&lt;/h2&gt;&lt;p&gt;ジップの法則（ジップのほうそく、Zipf’s law）あるいはジフの法則とは、出現頻度がk 番目に大きい要素が全体に占める割合が1/k に比例するという経験則である。Zipfは「ジフ」と読まれることもある。また、この法則が機能する世界を「ジフ構造」と記する論者もいる。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="cat 1" scheme="https://umemotsu.github.io/categories/cat-1/"/>
+    
+      <category term="cat 2" scheme="https://umemotsu.github.io/categories/cat-1/cat-2/"/>
+    
+      <category term="cat 3" scheme="https://umemotsu.github.io/categories/cat-1/cat-2/cat-3/"/>
+    
+    
+      <category term="tag 1" scheme="https://umemotsu.github.io/tags/tag-1/"/>
+    
+      <category term="tag 2" scheme="https://umemotsu.github.io/tags/tag-2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://umemotsu.github.io/2016/11/14/hello-world/"/>
+    <id>https://umemotsu.github.io/2016/11/14/hello-world/</id>
+    <published>2016-11-14T10:44:33.000Z</published>
+    <updated>2016-11-14T10:44:33.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
